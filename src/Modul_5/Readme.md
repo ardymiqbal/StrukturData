@@ -1,8 +1,8 @@
-## Codelab 1
+# Codelab 1
 Pada program Java ini mendemonstrasikan implementasi pohon biner (binary tree) beserta tiga metode traversing atau penjelajahan pohon: In-order, Pre-order, dan Post-order. Struktur pohon dibangun secara manual dalam metode utama, dan hasil traversing ditampilkan di konsol.
 Program ini memberikan contoh sederhana tentang cara membuat pohon biner dan melakukan berbagai jenis traversal pohon. Kelas ini berisi metode untuk menambahkan akar dan melakukan traversal pohon dalam berbagai urutan. Output menunjukkan urutan node yang dikunjungi selama masing-masing traversal.
 
-# Output
+## Output
 
 ```
 Pre-order Traversal (Akar, Kiri, Kanan):  
@@ -30,11 +30,11 @@ Post-order Traversal (Kiri, Kanan, Akar):
 20 
 ```
 
-## CODELAB 2
+# CODELAB 2
 Program Java ini mendemonstrasikan implementasi pohon biner (binary tree) beserta tiga metode traversing atau penjelajahan pohon: In-order, Pre-order, dan Post-order. Struktur pohon dibangun secara dinamis melalui metode `NewNode`, dan hasil traversing ditampilkan di konsol.
 Program ini memberikan contoh sederhana tentang cara membuat pohon biner secara dinamis dan melakukan berbagai jenis traversal pohon. Kelas ini berisi metode untuk menambahkan node baru dan melakukan traversal pohon dalam berbagai urutan. Output menunjukkan urutan node yang dikunjungi selama masing-masing traversal.
 
-# Output
+## Output
 
 ```
 Pre-order Traversal (Akar, Kiri, Kanan):  
